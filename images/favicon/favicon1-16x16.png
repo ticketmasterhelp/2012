@@ -1,17 +1,16 @@
+ 
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Used Parts, Used Auto Parts, Millions of Quality Used OEM Parts - car-partusa.com</title>
-    <link rel="canonical" href="https://www.car-partusa.com/">
-
+   <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+      <title>Used Parts, Used Auto Parts, Millions of Quality Used OEM Parts - car-partusa.com</title>
+      <link rel="canonical" href="https://www.car-partusa.com/">
+      
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="">
     <!-- core CSS -->
-    <!--<link rel="shortcut icon" href="images/ico/hlogo.png"> -->
-
-    <link rel="apple-touch-icon" sizes="57x57" href="images/favicon/p-icon-57x57.png">
+     <!--<link rel="shortcut icon" href="images/ico/hlogo.png"> -->
+     
+      <link rel="apple-touch-icon" sizes="57x57" href="images/favicon/p-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="images/favicon/p-icon-60x60.png">
     <link rel="apple-touch-icon" sizes="72x72" href="images/favicon/p-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="76x76" href="images/favicon/p-icon-76x76.png">
@@ -20,20 +19,20 @@
     <link rel="apple-touch-icon" sizes="144x144" href="images/favicon/p-icon-144x144.png">
     <link rel="apple-touch-icon" sizes="152x152" href="images/favicon/p-icon-152x152.png">
     <link rel="apple-touch-icon" sizes="180x180" href="images/favicon/p-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192" href="images/favicon/android1-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="images/favicon/android1-icon-192x192.png">
     <link rel="icon" type="image/png" sizes="32x32" href="images/favicon/favicon1-32x32.png">
     <link rel="icon" type="image/png" sizes="96x96" href="images/favicon/favicon1-96x96.png">
     <link rel="icon" type="image/png" sizes="16x16" href="images/favicon/favicon1-16x16.png">
     <link rel="manifest" href="images/favicon/manifest.json">
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="images/favicon/ms-icon1-144x144.png">
-
-
-
-
-
-
-    <!--  <link rel="apple-touch-icon" sizes="57x57" href="images/favicon/apple-icon-57x57.png">
+     
+     
+     
+     
+     
+    
+ <!--  <link rel="apple-touch-icon" sizes="57x57" href="images/favicon/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="images/favicon/apple-icon-60x60.png">
     <link rel="apple-touch-icon" sizes="72x72" href="images/favicon/apple-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="76x76" href="images/favicon/apple-icon-76x76.png">
@@ -50,159 +49,154 @@
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="images/favicon/ms-icon-144x144.png">-->
     <meta name="theme-color" content="#ffffff">
-    <link href="css/part.min.css" rel="stylesheet">
+	<link href="css/part.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <link href="css/owl.transitions.css" rel="stylesheet">
-
+    
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    
+	<style>
+	@media only screen and (max-width: 600px) {
+		.part {
+			margin-top:12%;
+		}
+		
+		.click	{
+			text-align: center;
+		}
+	} 
+	.menu:hover 
+	{
+		background-color:rgb(); 
+		color:white;
+		transform: scale(1.1);
+		
+	}
+	.menu:hover {
+  box-shadow: 0 0 11px black;}
+  
+  
+#subForm1 #subForm:hover{
+box-shadow:1px 1px #000;
+background-color:#fed524;
+}
+	</style>
+	
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-195896344-1"></script>
+<!-- Global site tag (gtag.js) - Google Ads: 362299728 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-362299728"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-376735967"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag()
+    {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'UA-195896344-1');
+    gtag('config', 'AW-362299728');
+    gtag('config', 'AW-376735967');
+</script>
+      <!--<link rel='stylesheet' id='mfn-base-css'  href='css/base.css' type='text/css' media='all' />-->
+      <style id="mfn-dnmc-page-css">
+	  option{
+		      font-weight: 700 !important;
+    padding: 4px !important;
+	  }
+         .wpcf7-form-control-wrap.text-name,
+         .wpcf7-form-control-wrap.text-address,
+         .wpcf7-form-control-wrap.text-city,
+         .wpcf7-form-control-wrap.State{
+         width: 46%;
+         float: left;
+         margin-right: 2%;
+         margin-bottom: 2%;
+         }
+         .wpcf7-form-control-wrap.additional-details textarea{
+         width: 94%;
+         margin-top: 5%;
+         height: 100px;
+         }
+         #request_secondpage{
+         display: none;
+         }
+         #request_secondpage .wpcf7-form-control.wpcf7-submit,
+         #request_secondpage .wpcf7-form-control wpcf7-submit.requestquote-submit{
+         float: left;
+         margin-right: 1%;
+         }
+         #theULList {
+  list-style: none;
+}
 
-    <style>
-        @media only screen and (max-width: 600px) {
-            .part {
-                margin-top: 12%;
-            }
-            .click {
-                text-align: center;
-            }
-        }
-
-        .menu:hover {
-            background-color: rgb();
-            color: white;
-            transform: scale(1.1);
-        }
-
-        .menu:hover {
-            box-shadow: 0 0 11px black;
-        }
-
-        #subForm1 #subForm:hover {
-            box-shadow: 1px 1px #000;
-            background-color: #fed524;
-        }
-    </style>
-
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-195896344-1"></script>
-    <!-- Global site tag (gtag.js) - Google Ads: 362299728 -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-362299728"></script>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-376735967"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-        gtag('config', 'UA-195896344-1');
-        gtag('config', 'AW-362299728');
-        gtag('config', 'AW-376735967');
-    </script>
-    <!--<link rel='stylesheet' id='mfn-base-css'  href='css/base.css' type='text/css' media='all' />-->
-    <style id="mfn-dnmc-page-css">
-        option {
-            font-weight: 700 !important;
-            padding: 4px !important;
-        }
-
-        .wpcf7-form-control-wrap.text-name,
-        .wpcf7-form-control-wrap.text-address,
-        .wpcf7-form-control-wrap.text-city,
-        .wpcf7-form-control-wrap.State {
-            width: 46%;
-            float: left;
-            margin-right: 2%;
-            margin-bottom: 2%;
-        }
-
-        .wpcf7-form-control-wrap.additional-details textarea {
-            width: 94%;
-            margin-top: 5%;
-            height: 100px;
-        }
-
-        #request_secondpage {
-            display: none;
-        }
-
-        #request_secondpage .wpcf7-form-control.wpcf7-submit,
-        #request_secondpage .wpcf7-form-control wpcf7-submit.requestquote-submit {
-            float: left;
-            margin-right: 1%;
-        }
-
-        #theULList {
-            list-style: none;
-        }
-
-        #theULList li:before {
-            content: '✓';
-        }
-    </style>
-    <meta name="description" content="We provide certified new and recycled auto parts for car services, car dealerships, car mechanics and direct customers.  Car Part USA are the source of millions of recycled original parts for cars, trucks, and SUVs. Call us at +1-909-371-1159.">
-    <meta name="keywords" content="used parts, used auto parts, used engines, used engine parts, used transmissions, used transmission parts, used car parts, used automobile parts, used auto body parts, used autoparts, auto parts used, auto parts, auto parts cost, car parts, car parts used, used oem car parts, quality auto parts, quality parts, junk yard, junk yards, junk yard parts, warehouse, quality used auto parts"
-    />
-</head>
-
-<body id="home" style="background: white;">
-    <header id="header">
-        <nav id="main-nav" class="navbar navbar-default navbar-fixed-top" role="banner">
+#theULList li:before {
+  content: '✓';
+}
+    
+      </style>
+      <meta name="description" content="We provide certified new and recycled auto parts for car services, car dealerships, car mechanics and direct customers.  Car Part USA are the source of millions of recycled original parts for cars, trucks, and SUVs. Call us at +1-909-371-1159.">
+      <meta name="keywords" content="used parts, used auto parts, used engines, used engine parts, used transmissions, used transmission parts, used car parts, used automobile parts, used auto body parts, used autoparts, auto parts used, auto parts, auto parts cost, car parts, car parts used, used oem car parts, quality auto parts, quality parts, junk yard, junk yards, junk yard parts, warehouse, quality used auto parts" />
+   </head>
+   <body id="home" style="background: white;">
+      <header id="header" >
+         <nav id="main-nav" class="navbar navbar-default navbar-fixed-top" role="banner">
             <div class="container">
-                <!--<script src="https://chatwee-api.com/v2/script/5ad47dd3bd616dd64ca30e66.js"></script>-->
-                <!--  <div class="navbar-header" style="height: 110px;">-->
-                <!-- style="height: 110px;"-->
-                <style>
-                    #blink {
-                        font-size: 30px;
-                        font-weight: bold;
-                        font-family: sans-serif;
-                        color: #1c87c9;
-                        transition: 0.4s;
-                    }
-                </style>
-
-                <div class="col-md-3 col-sm-3 col-xs-6">
+               <!--<script src="https://chatwee-api.com/v2/script/5ad47dd3bd616dd64ca30e66.js"></script>-->
+      <!--  <div class="navbar-header" style="height: 110px;">-->
+        <!-- style="height: 110px;"-->
+        <style>
+    #blink{
+      font-size: 30px;
+      font-weight: bold;
+      font-family: sans-serif;
+      color: #1c87c9;
+      transition:0.4s;
+    }
+    
+   </style>
+        
+        <div class="col-md-3 col-sm-3 col-xs-6">
                     <a class="navbar-brand" href="index.php"><img src="https://www.car-partusa.com/images/favicon/p-icon-57x57.png" height="40px" alt="logo"></a>
-                </div>
+            </div>
                 <div class="col-md-3 col-sm-3 col-xs-6" style="margin-top: 3px;text-align:right;">
-                    <h2 style="color: #000;font-size:16.3px;font-weight:700;" id="blink">CALL FOR QUOTE</h2>
+                    <h2  style="color: #000;font-size:16.3px;font-weight:700;"  id="blink">CALL FOR QUOTE</h2>
                 </div>
                 <!--<div class="col-md-2 col-sm-4 col-xs-6" >
     			<span  style="margin-top: -0px;color: white;font-size:16px;float:right;"><h2 style="color: white;font-size:16px;" class="fa fa-phone"></h2></span>
     			</div>-->
-                <!--<div class="col-md-3 col-sm-3 col-xs-6" style="margin-top: 6px;">
+    			<!--<div class="col-md-3 col-sm-3 col-xs-6" style="margin-top: 6px;">
     			    <h2  style="color: #000;font-size:16.3px;font-weight:700;">(TOLL FREE)</h2>
     			</div>-->
-                <div class="col-md-6 col-sm-6 col-xs-12" style="margin-top: 3px;">
-                    <span style="font-size:16.3px; float:right;"><h2 style="color: #000;font-family: sans-serif;font-size:16.3px;">Call Now&nbsp;<a class="phone" href="tel:+19093711159" style="color: #000;font-family: sans-serif;font-size:24.3px;" title="1419-404-8015" id="topcta">&nbsp;+1-909-371-1159</a></h2></span>
-                </div>
+    			<div class="col-md-6 col-sm-6 col-xs-12" style="margin-top: 3px;">
+    			    <span style="font-size:16.3px; float:right;"><h2 style="color: #000;font-family: sans-serif;font-size:16.3px;">Call Now&nbsp;<a class="phone" href="tel:+19093711159" style="color: #000;font-family: sans-serif;font-size:24.3px;" title="1419-404-8015" id="topcta">&nbsp;+1-909-371-1159</a></h2></span>
+    			</div>
+                 
+          
 
-
-
-                <!-- start sir Skype code provide -->
-                <script type="text/javascript">
-                    var blink = document.getElementById('blink');
-                    setInterval(function() {
-                        blink.style.opacity = (blink.style.opacity == 0 ? 1 : 0);
-                    }, 700);
-                </script>
-                <script id="5b3ec296dcafc0338966a71c">
-                    var script = document.createElement("script");
-                    script.async = true;
-                    script.type = "text/javascript";
-                    var target = "https://cdn.ppcprotect.com/tracking/va-monitor.js";
-                    script.src = target;
-                    var elem = document.head;
-                    elem.appendChild(script);
-                </script>
-                <noscript><a href="https://monitor.ppcprotect.com/v1.0/pixel?accid=5b3ec296dcafc0338966a71c" rel="nofollow"><img src="https://monitor.ppcprotect.com/v1.0/pixel?accid=5b3ec296dcafc0338966a71c" alt="PpcProtect"/></a></noscript>
-                <link rel="alternate" href="https://www.car-partusa.com/" hreflang="en" />
-                <!-- end sir Skype code provide -->
-
+<!-- start sir Skype code provide -->
+<script type="text/javascript">
+      var blink = document.getElementById('blink');
+      setInterval(function() {
+         blink.style.opacity = (blink.style.opacity == 0 ? 1 : 0);
+      }, 700); 
+    </script>
+<script id="5b3ec296dcafc0338966a71c">
+    var script = document.createElement("script");
+    script.async = true; script.type = "text/javascript";
+    var target = "https://cdn.ppcprotect.com/tracking/va-monitor.js";
+    script.src = target;
+    var elem = document.head;
+    elem.appendChild(script);
+</script>
+<noscript><a href="https://monitor.ppcprotect.com/v1.0/pixel?accid=5b3ec296dcafc0338966a71c" rel="nofollow"><img src="https://monitor.ppcprotect.com/v1.0/pixel?accid=5b3ec296dcafc0338966a71c" alt="PpcProtect"/></a></noscript>
+<link rel="alternate" href="https://www.car-partusa.com/" hreflang="en"/>
+<!-- end sir Skype code provide -->
+		
             </div>
             <!--/.container-->
-
-            <div class="container" style="background-color:#f3f3f3;">
+            
+                 <div class="container" style="background-color:#f3f3f3;">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                         <span class="sr-only">Toggle navigation</span>
@@ -212,29 +206,28 @@
                     </button>
                     <!--<a class="navbar-brand" href="index.php"><img src="images/logo.png" alt="logo"></a>-->
                 </div>
-
+				
                 <div class="collapse navbar-collapse navbar-right">
                     <ul class="nav navbar-nav">
-                        <li class="scroll active"><a href="index.php">Home</a></li>
+                        <li class="scroll active"><a href="index.php">Home</a></li> 
                         <li class="scroll"><a href="about.php">About Us</a></li>
                         <li class="scroll"><a href="parts.php">Search By Parts</a></li>
                         <li class="scroll"><a href="junkyard-near-me.php">Junkyards Near Me</a></li>
-                        <!-- <li class="scroll"><a href="/blog/">Blogs</a></li>-->
+                       <!-- <li class="scroll"><a href="/blog/">Blogs</a></li>-->
                         <li class="scroll"><a href="contact.php">Contact</a></li>
                     </ul>
                 </div>
             </div>
-            <div class="container" style="background-color:#f3f3f3;">
-                <marquee direction="left" speed="normal" behavior="loop" style="font-weight:700;">Free Shipping* | 30 Days Return &amp; Refund Warranty*
-                    <!-- <a href="https://play.google.com/store/apps/details?id=com.pullmyparts.pullmyparts&hl=en" target="_blank">Download</a> the Android App Now to avail discount up to 25%--></marquee>
-            </div>
-        </nav>
-        <!--/nav-->
-    </header>
-    <!--/header-->
-    <br>
-    <section id="services">
-        <div class="container">
+<div class="container" style="background-color:#f3f3f3;">
+        <marquee direction="left" speed="normal" behavior="loop" style="font-weight:700;">Free Shipping* | 30 Days Return &amp; Refund Warranty* <!-- <a href="https://play.google.com/store/apps/details?id=com.pullmyparts.pullmyparts&hl=en" target="_blank">Download</a> the Android App Now to avail discount up to 25%--></marquee>
+</div>	
+         </nav>
+         <!--/nav-->
+      </header>
+      <!--/header-->
+      <br>
+      <section  id="services" >
+         <div class="container" >
             <div class="section-header visible-xs">
                 &nbsp;
             </div>
@@ -248,83 +241,83 @@
                <p class="text-center wow fadeInDown">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget risus vitae massa <br> semper aliquam quis mattis quam.</p>
             </div>-->
             <div class="row">
-                <div class="row">
-                    <div class="col-sm-6 wow fadeInLeft">
-                        <div class="contact-form" style="font-family: sans-serif;">
-                            <section id="main-slider">
-                                <div class="owl-carousel">
-                                    <!-- <div class="item" title="Buy auto part" style="background-image: url(images/slider/slider1.webp);" alt="online salvage yard">
+               <div class="row">
+                       <div class="col-sm-6 wow fadeInLeft">
+                     <div class="contact-form" style="font-family: sans-serif;">
+                        <section id="main-slider">
+                           <div class="owl-carousel">
+                             <!-- <div class="item" title="Buy auto part" style="background-image: url(images/slider/slider1.webp);" alt="online salvage yard">
                               </div>-->
-                                    <!--/.item-->
-                                    <!-- <div class="item"  style="background-image: url(images/slider/slider2.webp);" alt="junk auto parts">
+                              <!--/.item-->
+                             <!-- <div class="item"  style="background-image: url(images/slider/slider2.webp);" alt="junk auto parts">
                              </div>-->
-                                    <!--/.item-->
-                                    <!-- <div class="item" title="By Car Parts Online" style="background-image: url(images/slider/slider5.webp);" alt="used auto parts">
+                              <!--/.item-->
+                             <!-- <div class="item" title="By Car Parts Online" style="background-image: url(images/slider/slider5.webp);" alt="used auto parts">
                               </div>-->
-                                    <div class="item" title="By Car Parts Online" style="background-image: url(images/slider/slider4.webp);" alt="car salvage yards">
-                                    </div>
-                                    <div class="item" title="By Car Parts Online" style="background-image: url(images/slider/slider5.webp);" alt="car parts">
-                                    </div>
-                                </div>
-                                <!--/.owl-carousel-->
-                            </section>
-                            <!--/#main-slider-->
-                            <h3>Millions of Quality Used OEM Parts</h3>
-                            <ul id="theULList">
-                                <li style="font-size: 18px;">
-                                    Our Used Parts Are Certified & Tested
-                                </li>
-                                <li style="font-size: 18px;">
-                                    Free Shipping And Delivery all USA
-                                </li>
-                                <li style="font-size: 18px;">
-                                    Quick Quotes that save you money
-                                </li>
-                                <li style="font-size: 18px;">
-                                    Save over 50% off dealer prices
-                                </li>
-                                <li style="font-size: 18px;">
-                                    We service all major makes
-                                </li>
-                                <li style="font-size: 18px;">
-                                    Complete The Form - &quot;Find Used Parts Now&quot;
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-
-                    <div class="col-sm-6 wow fadeInRight">
-                        <!--startc-->
-                        <div id="Content" style="">
-                            <div class="content_wrapper clearfix">
-                                <!-- .sections_group -->
-                                <div class="sections_group" style="margin-bottom: 10px;">
-                                    <div class="entry-content" itemprop="mainContentOfPage">
-                                        <div class="section mcb-section   " style=" background-color:">
-                                            <div class="section_wrapper mcb-section-inner">
-                                                <div class="wrap mcb-wrap one  valign-top clearfix" style="">
-                                                    <div class="mcb-wrap-inner">
-                                                        <div class="column mcb-column  column_visual ">
-                                                            <div class="form-qoutes" style="padding-bottom: 2em; background: #fff; padding: 0.8em; border-top-width: 72px;border-style:solid;border-color:#0dc8ca;border-radius: 20px; box-shadow: 1px 1px 6px #00000047; padding-bottom: 0;">
-                                                                <div role="form" class="wpcf7" id="wpcf7-f21-p35-o1" lang="en" dir="ltr" style="margin-top:-100px;">
-                                                                    <div class="screen-reader-response"></div>
-                                                                    <form method="post" class="wpcf7-form">
-                                                                        <div style="display: none;">
-                                                                            <input type="hidden" name="_wpcf7" value="21" />
-                                                                            <input type="hidden" name="_wpcf7_version" value="4.9.2" />
-                                                                            <input type="hidden" name="_wpcf7_locale" value="en" />
-                                                                            <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f21-p35-o1" />
-                                                                            <input type="hidden" name="_wpcf7_container_post" value="35" />
-                                                                        </div>
-                                                                        <center>
-                                                                            <h2 style="font-size:36px;color:#ffffff;padding-top:10px;">Find Part Now</h2>
-                                                                        </center>
-                                                                        <div style="display:inline;" id="divPart1">
-                                                                            <div>
-                                                                                <p id="fillMsg" style="color: red;display:none;font-weight:700;margin-bottom:0px;margin-top:10px;">Fill in all Details</p>
-                                                                            </div>
-                                                                            <p id="firstParag" style="width:100%;margin-top:50px;">
-                                                                                <span class="wpcf7-form-control-wrap Part" style="width:100%;margin-top:25px;">
+                              <div class="item" title="By Car Parts Online" style="background-image: url(images/slider/slider4.webp);" alt="car salvage yards">
+                              </div>
+                              <div class="item" title="By Car Parts Online" style="background-image: url(images/slider/slider5.webp);" alt="car parts">
+                              </div>
+                           </div>
+                           <!--/.owl-carousel-->
+                        </section>
+                        <!--/#main-slider-->
+                        <h3>Millions of Quality Used OEM Parts</h3>
+                        <ul id="theULList">
+                           <li style="font-size: 18px;">
+                              Our Used Parts Are Certified & Tested
+                           </li>
+                           <li style="font-size: 18px;">
+                              Free Shipping And Delivery all USA
+                           </li>
+                           <li style="font-size: 18px;">
+                              Quick Quotes that save you money
+                           </li>
+                           <li style="font-size: 18px;">
+                              Save over 50% off dealer prices
+                           </li>
+                           <li style="font-size: 18px;">
+                                We service all major makes
+                           </li>
+                           <li style="font-size: 18px;">
+                              Complete The Form - &quot;Find Used Parts Now&quot;
+                           </li>
+                        </ul>
+                     </div>
+                  </div>
+                   
+                  <div class="col-sm-6 wow fadeInRight">
+                     <!--startc-->
+                     <div id="Content" style="">
+                        <div class="content_wrapper clearfix">
+                           <!-- .sections_group -->
+                           <div class="sections_group" style="margin-bottom: 10px;">
+                              <div class="entry-content" itemprop="mainContentOfPage">
+                                 <div class="section mcb-section   "  style=" background-color:" >
+                                    <div class="section_wrapper mcb-section-inner">
+                                       <div class="wrap mcb-wrap one  valign-top clearfix" style=""  >
+                                          <div class="mcb-wrap-inner">
+                                             <div class="column mcb-column  column_visual ">
+                                                <div class="form-qoutes" style="padding-bottom: 2em; background: #fff; padding: 0.8em; border-top-width: 72px;border-style:solid;border-color:#0dc8ca;border-radius: 20px; box-shadow: 1px 1px 6px #00000047; padding-bottom: 0;">
+                                                   <div role="form" class="wpcf7" id="wpcf7-f21-p35-o1" lang="en" dir="ltr" style="margin-top:-100px;">
+                                                     <div class="screen-reader-response"></div>
+                                                      <form  method="post" class="wpcf7-form" >
+                                                         <div style="display: none;">
+                                                            <input type="hidden" name="_wpcf7" value="21" />
+                                                            <input type="hidden" name="_wpcf7_version" value="4.9.2" />
+                                                            <input type="hidden" name="_wpcf7_locale" value="en" />
+                                                            <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f21-p35-o1" />
+                                                            <input type="hidden" name="_wpcf7_container_post" value="35" />
+                                                         </div>
+                                                         <center>
+                                                            <h2 style="font-size:36px;color:#ffffff;padding-top:10px;">Find Part Now</h2>
+                                                         </center>
+														 <div style="display:inline;" id="divPart1">
+														 <div>
+                                                               <p id="fillMsg" style="color: red;display:none;font-weight:700;margin-bottom:0px;margin-top:10px;">Fill in all Details</p>
+                                                            </div>
+                                                            <p id="firstParag" style="width:100%;margin-top:50px;">
+                                                               <span class="wpcf7-form-control-wrap Part" style="width:100%;margin-top:25px;">
                                                                   <select name="Year" style="color:black" id="Year" class="form-control wpcf7-form-control wpcf7-select" required aria-invalid="false">
                                                                      <option value="">Select Year</option>
                                                                                                                                           <option value="2022">2022</option>
@@ -452,23 +445,23 @@
                                                                                                                                           <option value="1900">1900</option>
                                                                                                                                        </select>
                                                                </span>
-                                                                            </p>
-                                                                            <p style="width:100%;margin-top:10px;">
-                                                                                <span class="wpcf7-form-control-wrap Part" style="width:100%;display:inline-block;">
+                                                            </p>
+                                                            <p style="width:100%;margin-top:10px;">
+                                                               <span class="wpcf7-form-control-wrap Part" style="width:100%;display:inline-block;">
                                                                   <select name="Make" style="color:black" id="Make" required class="form-control" aria-invalid="false">													 
 																		<option selected='selected'>Select Make</option><option value='Acura'>Acura</option><option value='Alfa'>Alfa</option><option value='AMC'>AMC</option><option value='Aston'>Aston</option><option value='Asuna'>Asuna</option><option value='Audi'>Audi</option><option value='Austin'>Austin</option><option value='Autocar'>Autocar</option><option value='Avanti'>Avanti</option><option value='Bentley'>Bentley</option><option value='BMW'>BMW</option><option value='Bricklin'>Bricklin</option><option value='Brockway'>Brockway</option><option value='Buick'>Buick</option><option value='Cadillac'>Cadillac</option><option value='Checker'>Checker</option><option value='Chevy'>Chevy</option><option value='Chrysler'>Chrysler</option><option value='Citroen'>Citroen</option><option value='Daewoo'>Daewoo</option><option value='Daihatsu'>Daihatsu</option><option value='Delorean'>Delorean</option><option value='Desoto'>Desoto</option><option value='Diamond'>Diamond</option><option value='Dodge'>Dodge</option><option value='Eagle'>Eagle</option><option value='Edsel'>Edsel</option><option value='Ferrari'>Ferrari</option><option value='Fiat'>Fiat</option><option value='Fisker'>Fisker</option><option value='Ford'>Ford</option><option value='Freightliner'>Freightliner</option><option value='Freuhauf'>Freuhauf</option><option value='FWD'>FWD</option><option value='Genesis'>Genesis</option><option value='Geo'>Geo</option><option value='GMC'>GMC</option><option value='Hino'>Hino</option><option value='Honda'>Honda</option><option value='Hudson'>Hudson</option><option value='Hummer'>Hummer</option><option value='Hyundai'>Hyundai</option><option value='IH'>IH</option><option value='Infiniti'>Infiniti</option><option value='Isuzu'>Isuzu</option><option value='Jaguar'>Jaguar</option><option value='Jeep'>Jeep</option><option value='Kaiser'>Kaiser</option><option value='Kenworth'>Kenworth</option><option value='Kia'>Kia</option><option value='Lada'>Lada</option><option value='Lamborghini'>Lamborghini</option><option value='Lancia'>Lancia</option><option value='LandRover'>LandRover</option><option value='Lexus'>Lexus</option><option value='Lincoln'>Lincoln</option><option value='Lotus'>Lotus</option><option value='Mac'>Mac</option><option value='Marmon'>Marmon</option><option value='Maserati'>Maserati</option><option value='Maybach'>Maybach</option><option value='Mazda'>Mazda</option><option value='McLaren'>McLaren</option><option value='Mercedes'>Mercedes</option><option value='Mercury'>Mercury</option><option value='MG'>MG</option><option value='Mini'>Mini</option><option value='Mitsubishi'>Mitsubishi</option><option value='Morris'>Morris</option><option value='Nash'>Nash</option><option value='Nissan'>Nissan</option><option value='Oldsmobile'>Oldsmobile</option><option value='Opel'>Opel</option><option value='Oshkosh'>Oshkosh</option><option value='Pace'>Pace</option><option value='Packard'>Packard</option><option value='Pantera'>Pantera</option><option value='Peterbilt'>Peterbilt</option><option value='Peugeot'>Peugeot</option><option value='Plymouth'>Plymouth</option><option value='Polestar'>Polestar</option><option value='Pontiac'>Pontiac</option><option value='Porsche'>Porsche</option><option value='Ram'>Ram</option><option value='Renault'>Renault</option><option value='REO'>REO</option><option value='RollsRoyce'>RollsRoyce</option><option value='Rover'>Rover</option><option value='Saab'>Saab</option><option value='Saturn'>Saturn</option><option value='Scion'>Scion</option><option value='Seat'>Seat</option><option value='Simca'>Simca</option><option value='Smart'>Smart</option><option value='SterlingRover'>SterlingRover</option><option value='Studebaker'>Studebaker</option><option value='Subaru'>Subaru</option><option value='Sunbeam'>Sunbeam</option><option value='Suzuki'>Suzuki</option><option value='Tesla'>Tesla</option><option value='Thomas'>Thomas</option><option value='Toyota'>Toyota</option><option value='Triumph'>Triumph</option><option value='Utilimaster'>Utilimaster</option><option value='Volkswagen'>Volkswagen</option><option value='Volvo'>Volvo</option><option value='VPG'>VPG</option><option value='Western'>Western</option><option value='White'>White</option><option value='Willys'>Willys</option><option value='Winnebago'>Winnebago</option><option value='Yugo'>Yugo</option>																  </select>
 																  </span>
-                                                                            </p>
-                                                                            <p style="width:100%;margin-top:10px;">
-                                                                                <span class="wpcf7-form-control-wrap Part" style="width:100%;display:inline-block;">
+																  </p>
+                                                            <p style="width:100%;margin-top:10px;">
+                                                               <span class="wpcf7-form-control-wrap Part" style="width:100%;display:inline-block;">
                                                                   <select name="Model" style="color:black" id="Model" required class="form-control" aria-invalid="false">													 
 																		<option selected="selected">Select Model</option>
 																	</select>
                                                                </span>
-                                                                            </p>
-
-                                                                            <p>
-                                                                                <span class="wpcf7-form-control-wrap Part" style="width:100%;">
+                                                            </p>
+															
+                                                         <p>
+                                                            <span class="wpcf7-form-control-wrap Part"  style="width:100%;">
                                                                <select name="Part" style="color:black;width:100%;" id="Part" required class="form-control wpcf7-form-control wpcf7-select" aria-invalid="false">
                                                                   <option value="" selected="selected">Select Part
                                                                   <option value="A Pillar">A Pillar
@@ -1019,18 +1012,17 @@
                                                                   <option value="Yoke/U-Joint">Yoke/U-Joint
                                                                </select>
                                                             </span>
-                                                                            </p>
-                                                                            <center>
-                                                                                <input id="subForm1" type="button" name="sub" class="theButtonCutom" onclick="findPart();" value="Find My Part Now" class="wpcf6-form-control wpcf6-submit requestquote-submit" />
-                                                                            </center>
-                                                                        </div>
-                                                                        <div id="divPart2" style="display:none;margin-top:15px;">
-                                                                            <div id="selMsg" style="color: #000;margin-top:30px;display:none;font-size:22px;font-weight:700;width: 100%;text-align: center;">
-                                                                                <p>You have selected a&nbsp;<label id="lblSelYear" style="color:#0dc8ca;">Year</label>&nbsp;<label id="lblSelMake" style="color:#0dc8ca;">Make</label>&nbsp;<label id="lblSelPart"
-                                                                                        style="color:#0dc8ca;">Part</label><br/>Complete the fields to get an Instant Quote.</p>
-                                                                            </div>
-                                                                            <p>
-                                                                                <span class="wpcf7-form-control-wrap Part" style="width:100%;">
+                                                         </p>														 
+                                                         <center>
+                                                            <input id="subForm1" type="button" name="sub" class="theButtonCutom" onclick="findPart();" value="Find My Part Now" class="wpcf6-form-control wpcf6-submit requestquote-submit" />
+                                                         </center>
+                                                         </div>
+														 <div id="divPart2" style="display:none;margin-top:15px;">
+														 <div id="selMsg" style="color: #000;margin-top:30px;display:none;font-size:22px;font-weight:700;width: 100%;text-align: center;">
+                                                            <p>You have selected a&nbsp;<label id="lblSelYear" style="color:#0dc8ca;">Year</label>&nbsp;<label id="lblSelMake" style="color:#0dc8ca;">Make</label>&nbsp;<label id="lblSelPart" style="color:#0dc8ca;">Part</label><br/>Complete the fields to get an Instant Quote.</p>
+                                                         </div>
+														 <p>
+                                                            <span class="wpcf7-form-control-wrap Part"  style="width:100%;">
                                                                <select name="occupation" style="color:black;width:100%;" id="occupation" required class="form-control wpcf7-form-control wpcf7-select" aria-invalid="false">
                                                                   <option value="Not Selected" Selected="selected">Discount for
                                                                   <option value="A Mechanic">A Mechanic
@@ -1050,240 +1042,226 @@
                                                                   <option value="Others">Others
                                                                   </select>
                                                             </span>
-                                                                            </p>
-                                                                            <p>
-                                                                                <span class="wpcf7-form-control-wrap Part" style="width:100%;display:inline-block;">
+                                                            </p>
+                                                         <p >
+                                                               <span class="wpcf7-form-control-wrap Part" style="width:100%;display:inline-block;">
                                                                <input type="text" name="Name" style="color:black" required=""  size="40" class="form-control wpcf7-form-control wpcf7-text" id="Name" aria-invalid="false" placeholder="Your Name"  />
                                                                </span>
-                                                                            </p>
-                                                                            <p>
-                                                                                <span class="wpcf7-form-control-wrap Part" style="width:100%;display:inline-block;">
+                                                               </p>
+                                                               <p>
+                                                               <span class="wpcf7-form-control-wrap Part" style="width:100%;display:inline-block;">
                                                                <input type="email" name="Email" style="color:black" id="Email" value="" required="" size="40" class="form-control wpcf7-form-control wpcf7-text email" aria-invalid="false" placeholder="Email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" title="Please enter a valid email address"/>
                                                                </span>
-                                                                            </p>
-                                                                            <p>
-                                                                                <span class="wpcf7-form-control-wrap Part" style="width:100%;display:inline-block;">
+                                                            </p>
+                                                         <p >
+                                                               <span class="wpcf7-form-control-wrap Part" style="width:100%;display:inline-block;">
                                                                <input type="number" name="Contact" style="color:black;" id="Contact" required="" value="" size="40" class="form-control"  placeholder="Contact" pattern="[0-9]{10}" title="Please enter exactly 10 digits"/>
                                                                </span>
-                                                                            </p>
-                                                                            <p>
-                                                                                <span class="wpcf7-form-control-wrap Part" style="width:100%;display:inline-block;">
+                                                               </p>
+                                                               <p>
+                                                               <span class="wpcf7-form-control-wrap Part" style="width:100%;display:inline-block;">
                                                                <input type="number" name="Zip" style="color:black;width:100%" id="Zip" value="" size="40" required="" class="form-control wpcf7-form-control wpcf7-text"  placeholder="Ship to Zip Code" />
                                                                </span>
-                                                                            </p>
-                                                                            <div style="color: #000;margin-top:10px;font-size:16px;font-weight:700;width: 100%;text-align: center;">
-                                                                                <p><input type="checkbox" name="optin" value="optin" checked><label for="optin"> I agree to receive Quotes or Inventory on email</label></p>
-                                                                            </div>
-                                                                        </div>
-                                                                        <center>
-                                                                            <input id="subForm" type="submit" name="sub" class="theButtonCutom" onclick="SENDMAIL();" value="Find My Part Now" class="wpcf6-form-control wpcf6-submit requestquote-submit" />
-                                                                        </center>
-
-                                                                        <div id="divTable" style="display:none;">
-                                                                            <p style="color: #000;font-weight:700;text-align:center;background-image: url('/images/card-icon/Auth4.webp');background-repeat: no-repeat;background-size: contain;"><label id="lblSelComplete" style="color:#000;font-weight:700;"></label><br/>Quote Available for next <span id="time" style="font-weight:700;color:#0dc8ca;">01:00:00</span><br/>Please
-                                                                                wait for us or Call on <a href="tel:+19093711159" target="_blank">+1-909-371-1159</a></p>
-                                                                        </div>
-                                                                        <br/>
-                                                                        <div id="success1" style="color: green;display:none;font-weight:700;">Thank you for submitting your request, We will check for your parts requirements and get back to you within 30 minutes</div>
-                                                                        <div id="faill" style="color: red;display:none;font-weight:700;">Message Failed</div>
-                                                                        <!-- For success/fail messages -->
-                                                                    </form>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                                                            </p>
+                                                            <div style="color: #000;margin-top:10px;font-size:16px;font-weight:700;width: 100%;text-align: center;">
+                                                                <p><input type="checkbox" name="optin" value="optin" checked><label for="optin"> I agree to receive Quotes or Inventory on email</label></p>
+                                                         </div>
+														 </div>
+                                                         <center>
+                                                            <input id="subForm" type="submit" name="sub" class="theButtonCutom"  onclick="SENDMAIL();" value="Find My Part Now" class="wpcf6-form-control wpcf6-submit requestquote-submit" />
+                                                         </center>
+														 
+                                                         <div id="divTable" style="display:none;">
+                                                            <p style="color: #000;font-weight:700;text-align:center;background-image: url('/images/card-icon/Auth4.webp');background-repeat: no-repeat;background-size: contain;"><label id="lblSelComplete" style="color:#000;font-weight:700;"></label><br/>Quote Available for next <span id="time" style="font-weight:700;color:#0dc8ca;">01:00:00</span><br/>Please wait for us or Call on <a href="tel:+19093711159" target="_blank">+1-909-371-1159</a></p>
+															</div>
+                                                         <br/>
+                                                         <div id="success1" style="color: green;display:none;font-weight:700;">Thank you for submitting your request, We will check for your parts requirements and get back to you within 30 minutes</div>
+                                                         <div id="faill" style="color: red;display:none;font-weight:700;">Message Failed</div>
+                                                         <!-- For success/fail messages -->
+                                                      </form>
+                                                   </div>
                                                 </div>
-                                            </div>
-                                        </div>
-                                        <div class="section the_content no_content">
-                                            <div class="section_wrapper">
-                                                <div class="the_content_wrapper"></div>
-                                            </div>
-                                        </div>
-                                        <div class="section section-page-footer">
-                                            <div class="section_wrapper clearfix">
-                                                <div class="column one page-pager">
-                                                </div>
-                                            </div>
-                                        </div>
+                                             </div>
+                                          </div>
+                                       </div>
                                     </div>
-                                </div>
-                                <!-- .four-columns - sidebar -->
-                            </div>
+                                 </div>
+                                 <div class="section the_content no_content">
+                                    <div class="section_wrapper">
+                                       <div class="the_content_wrapper"></div>
+                                    </div>
+                                 </div>
+                                 <div class="section section-page-footer">
+                                    <div class="section_wrapper clearfix">
+                                       <div class="column one page-pager">
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                           <!-- .four-columns - sidebar -->
                         </div>
-                        <!--end-->
-                    </div>
-
-                </div>
+                     </div>
+                     <!--end-->
+                  </div>
+                   
+               </div>
             </div>
             <br>
+         </div>
+         <br>
+      </section>
+      
+      
+      <div class="row" style="padding-right:5%; padding-left:5%;">
+                <div class="features">
+                    <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="100ms" style="margin-bottom:10px;">
+                        <div class="media service-box" style="text-align:center;border-style:solid;border-color:#0dc8ca;border-radius: 20px;">
+                            <i class="fa fa-wechat" style="font-size:60px;color:#0dc8ca"></i>
+                                <h4 style="color: #0dc8ca;font-family: sans-serif;font-weight:700;">CHAT WITH US</h4>
+                                <!--<h3>&nbsp;</h3>-->
+                                <p style="color: #000;font-family: sans-serif;font-weight:700;padding-left:5px;padding-right:5px;font-size:18px;">Click The Below Chat Box And Chat With a live Person who will quote you from our live inventory</p>
+                            </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms" style="margin-bottom:10px;">
+                        <div class="media service-box" style="text-align:center;border-style:solid;border-color:#0dc8ca;border-radius: 20px;background-color:#0dc8ca;">
+                            <i class="fa fa-phone-square" style="font-size:60px;color:#fff"></i>
+                                <h4 style="color: #fff;font-family: sans-serif;font-weight:700;">&nbsp;&nbsp;PHONE (USA)</h4>
+                                <h3><a class="phone" href="tel:+19093711159" style="color: #fff;font-family: sans-serif;" title="+19093711159">&nbsp;+1-909-371-1159</a></h3>
+                                <p style="color: #fff;font-family: sans-serif;font-weight:700;padding-left:5px;padding-right:5px;font-size:18px;">Talk to Live Ware house Mechanic and get Best Quote Guaranteed</p>
+                            </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="200ms" style="margin-bottom:10px;">
+                        <div class="media service-box" style="text-align:center;border-style:solid;border-color:#0dc8ca;border-radius: 20px;">
+                            <i class="fa fa-phone" style="font-size:60px;color:#0dc8ca"></i>
+                                <h4 style="color: #0dc8ca;font-family: sans-serif;font-weight:700;">LET US CALL YOU</h4>
+                                <!--<h3>&nbsp;</h3>-->
+                                <p style="color: #000;font-family: sans-serif;font-weight:700;padding-left:5px;padding-right:5px;font-size:18px;">Fill up the Form with your exact part requirement and we will call you with the Best price in the Market</p>
+                            </div>
+                    </div>
+                </div>
         </div>
-        <br>
-    </section>
-
-
-    <div class="row" style="padding-right:5%; padding-left:5%;">
-        <div class="features">
-            <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="100ms" style="margin-bottom:10px;">
-                <div class="media service-box" style="text-align:center;border-style:solid;border-color:#0dc8ca;border-radius: 20px;">
-                    <i class="fa fa-wechat" style="font-size:60px;color:#0dc8ca"></i>
-                    <h4 style="color: #0dc8ca;font-family: sans-serif;font-weight:700;">CHAT WITH US</h4>
-                    <!--<h3>&nbsp;</h3>-->
-                    <p style="color: #000;font-family: sans-serif;font-weight:700;padding-left:5px;padding-right:5px;font-size:18px;">Click The Below Chat Box And Chat With a live Person who will quote you from our live inventory</p>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms" style="margin-bottom:10px;">
-                <div class="media service-box" style="text-align:center;border-style:solid;border-color:#0dc8ca;border-radius: 20px;background-color:#0dc8ca;">
-                    <i class="fa fa-phone-square" style="font-size:60px;color:#fff"></i>
-                    <h4 style="color: #fff;font-family: sans-serif;font-weight:700;">&nbsp;&nbsp;PHONE (USA)</h4>
-                    <h3><a class="phone" href="tel:+19093711159" style="color: #fff;font-family: sans-serif;" title="+19093711159">&nbsp;+1-909-371-1159</a></h3>
-                    <p style="color: #fff;font-family: sans-serif;font-weight:700;padding-left:5px;padding-right:5px;font-size:18px;">Talk to Live Ware house Mechanic and get Best Quote Guaranteed</p>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="200ms" style="margin-bottom:10px;">
-                <div class="media service-box" style="text-align:center;border-style:solid;border-color:#0dc8ca;border-radius: 20px;">
-                    <i class="fa fa-phone" style="font-size:60px;color:#0dc8ca"></i>
-                    <h4 style="color: #0dc8ca;font-family: sans-serif;font-weight:700;">LET US CALL YOU</h4>
-                    <!--<h3>&nbsp;</h3>-->
-                    <p style="color: #000;font-family: sans-serif;font-weight:700;padding-left:5px;padding-right:5px;font-size:18px;">Fill up the Form with your exact part requirement and we will call you with the Best price in the Market</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-md-12 col-sm-12">&nbsp;</div>
-    </div>
-    <div class="row">
-        <div class="col-md-12 col-sm-12">&nbsp;</div>
-    </div>
-    <!--/#our-team-->
-    <div class="row" style="padding-right:5%; padding-left:5%;">
-        <div class="row">
+            <div class="row"><div class="col-md-12 col-sm-12">&nbsp;</div></div>
+            <div class="row"><div class="col-md-12 col-sm-12">&nbsp;</div></div>      <!--/#our-team-->
+      <div class="row" style="padding-right:5%; padding-left:5%;">
+         <div class="row">
             <div class="col-sm-6 wow fadeInLeft">
-                <h3>#1 Online Car Quality Parts Locator!</h3>
-                <p><a href="https://www.car-partusa.com/contact.php">car-partusa.com</a> has helped millions of <a href="https://www.car-partusa.com/reviews.php">customers</a> over the decades locate hard to find car parts around the United States. We are
-                    the #1 Online locator for difficult to find best quality <a href="https://www.car-partusa.com/used-make-car.php">used auto parts</a>. Our used auto parts junkyards <a href="https://www.car-partusa.com/auto-salvage-parts.php">locator</a>                    will quickly connect you to over 18k+ auto recyclers & used auto parts suppliers.</p>
+               <h3>#1 Online Car Quality Parts Locator!</h3>
+               <p><a href="https://www.car-partusa.com/contact.php">car-partusa.com</a> has helped millions of <a href="https://www.car-partusa.com/reviews.php">customers</a> over the decades locate hard to find car parts around the United States. We are the #1 Online locator for difficult to find best quality <a href="https://www.car-partusa.com/used-make-car.php">used auto parts</a>. Our used auto parts junkyards <a href="https://www.car-partusa.com/auto-salvage-parts.php">locator</a> will quickly connect you to over 18k+ auto recyclers & used auto parts suppliers.</p>
             </div>
             <div class="col-sm-6 wow fadeInLeft">
-                <h3>Guaranteed Customer Service</h3>
-                <p>100% <a href="https://www.car-partusa.com/contact.php">customer service guaranteed!</a> Finding any used parts will be quick and easy with us. Our <a href="https://www.car-partusa.com/junkyard-near-me.php">local warehouse near you</a>                    is ready to help pull out used auto parts and ship them immediately.</p>
+               <h3>Guaranteed Customer Service</h3>
+               <p>100% <a href="https://www.car-partusa.com/contact.php">customer service guaranteed!</a> Finding any used parts will be quick and easy with us. Our <a href="https://www.car-partusa.com/junkyard-near-me.php">local warehouse near you</a> is ready to help pull out used auto parts and ship them immediately.</p>
             </div>
-        </div>
-    </div>
-    <br>
-    <div class="row" style="padding-right:5%; padding-left:5%;padding-bottom: 25px;">
-        <div class="row">
+         </div>
+      </div>
+      <br>
+      <div class="row" style="padding-right:5%; padding-left:5%;padding-bottom: 25px;">
+         <div class="row">
             <div class="col-sm-6 wow fadeInRight">
-                <h3>Certified OEM Parts</h3>
-                <p>We provide certified new and recycled auto parts for car services, car dealerships, car mechanics and direct customers. <a href="https://www.car-partusa.com/about.php"> Car Part USA</a> are the source of millions of recycled original parts
-                    for cars, trucks and SUVs. Call us at <a href="tel:+19093711159">+1-909-371-1159</a></p>
+               <h3>Certified OEM Parts</h3>
+               <p>We provide certified new and recycled auto parts for car services, car dealerships, car mechanics and direct customers. <a href="https://www.car-partusa.com/about.php"> Car Part USA</a> are the source of millions of recycled original parts for cars, trucks and SUVs. Call us at <a href="tel:+19093711159">+1-909-371-1159</a></p>
             </div>
             <div class="col-sm-6 wow fadeInRight">
-                <h3>Buy Quality OEM Parts Online @ Best Price</h3>
-                <p>All of our used parts are upto your expectations. All of our used parts are tested and have some industry standard guarantees. Keep in mind <a href="https://www.car-partusa.com/reviews.php">car-partusa.com</a> the next time you need a
-                    used parts.</p>
+               <h3>Buy Quality OEM Parts Online @ Best Price</h3>
+               <p>All of our used parts are upto your expectations. All of our used parts are tested and have some industry standard guarantees. Keep in mind <a href="https://www.car-partusa.com/reviews.php">car-partusa.com</a> the next time you need a used parts.</p>
+            </div>
+         </div>
+      </div>
+      <hr>
+      <br/>
+      <div class="row" style="padding-right:5%; padding-left:5%;">
+         <div class="row">
+            <div class="col-sm-6 wow fadeInLeft">
+    <p>At our network of more than 78 <a href="https://www.car-partusa.com/auto-salvage-parts.php">Salvage Yards</a> <a href="https://www.car-partusa.com/parts.php">Automobile Parts</a>, we strive to offer good quality used parts at the lowest possible prices anywhere. By being a FULL SERVICE <a href="https://www.car-partusa.com/junkyards.php">Junk yard</a>, we mean that WE pull the parts you want and stand behind all of our <a href="https://www.car-partusa.com/used-make-car.php">used car parts</a> with a conditional 30 days refund & refund warranty.</p>
+            </div>
+            <div class="col-sm-6 wow fadeInLeft">
+    <p>Try our <a href="https://www.car-partusa.com/junkyard-near-me.php">online salvage yard</a> <a href="https://www.car-partusa.com/auto-salvage-parts.php">car parts finder</a> for a used <a href="https://www.car-partusa.com/engine.php">engine</a>, <a href="https://www.car-partusa.com/transmission-assembly.php">transmission</a>, <a href="https://www.car-partusa.com/tail-light.php">tail light</a>, <a href="https://www.car-partusa.com/headslights.php">head lights</a> and <a href="https://www.car-partusa.com/door-mirror.php">door mirror</a> parts you are in the best place you can be when it comes to top-value, low-cost OEM <a href="https://www.car-partusa.com/used-car-make.php">auto parts</a>.</p>
             </div>
         </div>
     </div>
-    <hr>
-    <br/>
-    <div class="row" style="padding-right:5%; padding-left:5%;">
-        <div class="row">
-            <div class="col-sm-6 wow fadeInLeft">
-                <p>At our network of more than 78 <a href="https://www.car-partusa.com/auto-salvage-parts.php">Salvage Yards</a> <a href="https://www.car-partusa.com/parts.php">Automobile Parts</a>, we strive to offer good quality used parts at the lowest
-                    possible prices anywhere. By being a FULL SERVICE <a href="https://www.car-partusa.com/junkyards.php">Junk yard</a>, we mean that WE pull the parts you want and stand behind all of our <a href="https://www.car-partusa.com/used-make-car.php">used car parts</a>                    with a conditional 30 days refund & refund warranty.</p>
-            </div>
-            <div class="col-sm-6 wow fadeInLeft">
-                <p>Try our <a href="https://www.car-partusa.com/junkyard-near-me.php">online salvage yard</a> <a href="https://www.car-partusa.com/auto-salvage-parts.php">car parts finder</a> for a used <a href="https://www.car-partusa.com/engine.php">engine</a>,
-                    <a href="https://www.car-partusa.com/transmission-assembly.php">transmission</a>, <a href="https://www.car-partusa.com/tail-light.php">tail light</a>, <a href="https://www.car-partusa.com/headslights.php">head lights</a> and <a href="https://www.car-partusa.com/door-mirror.php">door mirror</a>                    parts you are in the best place you can be when it comes to top-value, low-cost OEM <a href="https://www.car-partusa.com/used-car-make.php">auto parts</a>.</p>
-            </div>
-        </div>
-    </div>
-
-    <footer id="footer" style="margin-bottom: -26px;background-color:#0dc8ca;">
+      
+<footer id="footer" style="margin-bottom: -26px;background-color:#0dc8ca;">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 col-lg-12" style="color:#000;text-align:center;">
                     <h3 style="color:#fff;">What Our Happy Clients say about us</h3>
+                    </div>
                 </div>
-            </div>
             <div class="row">
                 <div class="col-sm-12 col-lg-12" style="color:#000;text-align:center;">
                     <h1 style="color:#fff;text-decoration:underline;"><a href="reviews.php">TESTIMONIAL</a></h1>
+                    </div>
                 </div>
-            </div>
             <div class="row">
                 <div class="col-sm-12 col-lg-12" style="color:#000;text-align:center;">
                     <h4 style="color:#fff;">The highest standards. The happiest customers.<br/>Rated by store owner</h4>
+                    </div>
                 </div>
-            </div>
-
+                
             <div class="row" style="background-color:#f3f3f3;">
                 <div class="col-sm-12 col-lg-12" style="color:#000;text-align:center;padding-top:30px;">
                     <section id="main-slider1">
-                        <div class="owl-carousel" style="height:350px !important;">
-                            <div class="item" title="Testimonial One" style="color:#000;text-align:center;padding-left:5%;padding-right:5%;padding-top:40px;">
-                                <h4 style="color:#000;text-align:center;">
-                                    Very good service, I received excellent quality details both times. Yes, I will recommend your company for sure. I would rate Car Part USA with 10 out of 10. THANKS!
-                                </h4>
-                                <h3 style="color:#000;text-align:center;">Daimon A Almonte, CA - 95206</h3>
-                            </div>
-                            <div class="item" title="Testimonial Two" style="color:#000;text-align:center;padding-left:5%;padding-right:5%;padding-top:40px;">
-                                <h4 style="color:#000;text-align:center;">
-                                    I will give Car Part USA 10 out of 10! Because you answered me right away and made sure that you have the right part for me !! Yes, I would recommend your company to my friends and family.
-                                </h4>
-                                <h3 style="color:#000;text-align:center;">Wesley J Harris, MD - 21797</h3>
-                            </div>
-                            <div class="item" title="Testimonial Three" style="color:#000;text-align:center;padding-left:5%;padding-right:5%;padding-top:12px;">
-                                <h4 style="color:#000;text-align:center;">
-                                    Car Part USA is the only company in the United States. That I received the exact OEM part for my Mercedes. This company is the only one that has truly verified the exact part number for an accurate replacement. I went through numerous companies and no
-                                    one can guarantee a part number except Car Part USA. I am completely satisfied with the customer service, the part corresponds exactly to the delivery time. I will buy them again if necessary in the future.
-                                </h4>
-                                <h3 style="color:#000;text-align:center;">Lyons De Boer, WY - 82007</h3>
-                            </div>
-                            <div class="item" title="Testimonial Four" style="color:#000;text-align:center;padding-left:5%;padding-right:5%;padding-top:20px;">
-                                <h4 style="color:#000;text-align:center;">
-                                    I have to give you 10 out of 10. You really have professional people working for you. His people strive to succeed by providing excellent service. This is great for me because you are dealing with people who make you feel good. Yes, I will recommend your
-                                    company to my family and friends; It’s very difficult these days to find a company like yours. Good luck to you, your employees and your company.
-                                </h4>
-                                <h3 style="color:#000;text-align:center;">Richard Jenson, KY - 40216</h3>
-                            </div>
-                            <div class="item" title="Testimonial Five" style="color:#000;text-align:center;padding-left:5%;padding-right:5%;padding-top:25px;">
-                                <h4 style="color:#000;text-align:center;">
-                                    After talking with their employees, I realized that their business communication skills were excellent, as well as the skills of the first person. And it was a single screw database and information. It’s so good that it was hard to believe, but now I
-                                    know that it’s true. Therefore, I would recommend your company as a company to contact as it provides the best service.
-                                </h4>
-                                <h3 style="color:#000;text-align:center;">Bobby Automotive, VA - 24301</h3>
-                            </div>
-                        </div>
-                        <!--/.owl-carousel-->
-                    </section>
-                </div>
-            </div>
-
-            <br/><br/><br/><br/>
-
+                           <div class="owl-carousel" style="height:350px !important;">
+                              <div class="item" title="Testimonial One" style="color:#000;text-align:center;padding-left:5%;padding-right:5%;padding-top:40px;">
+                                  <h4 style="color:#000;text-align:center;">
+                                      Very good service, I received excellent quality details both times. Yes, I will recommend your company for sure. I would rate Car Part USA with 10 out of 10. THANKS!
+                                  </h4>
+                                  <h3 style="color:#000;text-align:center;">Daimon A Almonte, CA - 95206</h3>
+                              </div>
+                              <div class="item" title="Testimonial Two" style="color:#000;text-align:center;padding-left:5%;padding-right:5%;padding-top:40px;">
+                                  <h4 style="color:#000;text-align:center;">
+                                      I will give Car Part USA 10 out of 10! Because you answered me right away and made sure that you have the right part for me !! Yes, I would recommend your company to my friends and family.
+                                  </h4>
+                                  <h3 style="color:#000;text-align:center;">Wesley J Harris, MD - 21797</h3>
+                              </div>
+                              <div class="item" title="Testimonial Three" style="color:#000;text-align:center;padding-left:5%;padding-right:5%;padding-top:12px;" >
+                                  <h4 style="color:#000;text-align:center;">
+                                      Car Part USA is the only company in the United States. That I received the exact OEM part for my Mercedes. This company is the only one that has truly verified the exact part number for an accurate replacement. I went through numerous companies and no one can guarantee a part number except Car Part USA. I am completely satisfied with the customer service, the part corresponds exactly to the delivery time. I will buy them again if necessary in the future.
+                                  </h4>
+                                  <h3 style="color:#000;text-align:center;">Lyons De Boer, WY - 82007</h3>
+                              </div>
+                              <div class="item" title="Testimonial Four" style="color:#000;text-align:center;padding-left:5%;padding-right:5%;padding-top:20px;" >
+                                  <h4 style="color:#000;text-align:center;">
+                                      I have to give you 10 out of 10. You really have professional people working for you. His people strive to succeed by providing excellent service. This is great for me because you are dealing with people who make you feel good. Yes, I will recommend your company to my family and friends; It’s very difficult these days to find a company like yours. Good luck to you, your employees and your company.
+                                  </h4>
+                                  <h3 style="color:#000;text-align:center;">Richard Jenson, KY - 40216</h3>
+                              </div>
+                              <div class="item" title="Testimonial Five" style="color:#000;text-align:center;padding-left:5%;padding-right:5%;padding-top:25px;" >
+                                  <h4 style="color:#000;text-align:center;">
+                                      After talking with their employees, I realized that their business communication skills were excellent, as well as the skills of the first person. And it was a single screw database and information. It’s so good that it was hard to believe, but now I know that it’s true. Therefore, I would recommend your company as a company to contact as it provides the best service.
+                                  </h4>
+                                  <h3 style="color:#000;text-align:center;">Bobby Automotive, VA - 24301</h3>
+                              </div>
+                           </div>
+                           <!--/.owl-carousel-->
+                        </section>
+                    </div>
+                    </div>
+                
+                <br/><br/><br/><br/>
+             
             <div class="row">
-                <!--                <div class="col-sm-3">
+<!--                <div class="col-sm-3">
                     &copy; 2018 Car Part USA | All Rights Reserved<a target="_blank" href="http://gradeautoparts.com/" title="Car Part USA"></a>
                
                 </div>-->
-                <div class="col-sm-8 col-lg-4 col-xs-12">
+                 <div class="col-sm-8 col-lg-4 col-xs-12">
                     <ul class="social-icons" style="display: inline-grid;float:left;font-weight:700;">
                         <li style="width:140px;background: none;color:#fff;margin-top:5px;font-size:26px;">We Accept</li>
                         <li style="background: none;"><img src="images/card-icon/cards.png" style="width:275px;"></li>
                         <!--<li style="background: none;"><a href="https://play.google.com/store/apps/details?id=com.pullmyparts.pullmyparts&hl=en" target="_blank"><img src="images/android-app-icon_0.png" style="width:150px;"></a></li>-->
-
+                        
                     </ul>
                 </div>
-
-                <!--  <div class="col-sm-4 col-lg-2 col-xs-12" style="color:#fff;">
+                
+               <!--  <div class="col-sm-4 col-lg-2 col-xs-12" style="color:#fff;">
                      <div class="addthis_inline_follow_toolbox"></div>
                 <div class="addthis_inline_share_toolbox" ></div>
                 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5e1635a5f54a2f41"></script>
                 </div>-->
-                <div class="col-sm-6 col-xs-6 col-lg-3" style="padding-top:5px;margin-left:-15px;margin-right:-15px;">
-                    <ul class="social-icons" style="display: inline-grid;float:left;font-weight:700;">
+               <div class="col-sm-6 col-xs-6 col-lg-3" style="padding-top:5px;margin-left:-15px;margin-right:-15px;">
+                    <ul class="social-icons" style="display: inline-grid;float:left;font-weight:700;" >
                         <li style="width:140px;background: none;margin-top:5px;text-align:left;"><a href="index.php">Home</a></li>
                         <li style="width:140px;background: none;margin-top:5px;text-align:left;"><a href="vin-decoder.php">VIN Decoder</a></li>
                         <!--<li style="width:140px;background: none;margin-top:5px;text-align:left;"><a href="email_us.php">Email us</a></li>-->
@@ -1293,297 +1271,258 @@
                         <li style="width:140px;background: none;margin-top:5px;text-align:left;"><a href="faq.php">FAQs</a></li>
                     </ul>
                 </div>
-                <div class="col-sm-6 col-xs-6 col-lg-3" style="padding-top:5px;margin-left:-15px;margin-right:-15px;">
+               <div class="col-sm-6 col-xs-6 col-lg-3" style="padding-top:5px;margin-left:-15px;margin-right:-15px;">
                     <ul class="social-icons" style="display: inline-grid;float:right;font-weight:700;margin-right:-50px;">
                         <li style="width:200px;background: none;margin-top:5px;padding-left:15px;padding-right:15px;text-align:right;"><a href="parts.php">Search By Parts</a></li>
-                        <li style="width:200px;background: none;margin-top:5px;padding-left:15px;padding-right:15px;text-align:right;"><a href="used-car-make.php">Search By Make & Model</a></li>
-                        <li style="width:200px;background: none;margin-top:5px;padding-left:15px;padding-right:15px;text-align:right;"><a href="used-car-makes.php">Search By Make & Parts</a></li>
-                        <li style="width:200px;background: none;margin-top:5px;padding-left:15px;padding-right:15px;text-align:right;"><a href="auto-salvage-parts.php">Part Locator</a></li>
-                        <li style="width:200px;background: none;margin-top:5px;padding-left:15px;padding-right:15px;text-align:right;"><a href="junkyards.php">Junkyard Inventory</a></li>
-                        <li style="width:200px;background: none;margin-top:5px;padding-left:15px;padding-right:15px;text-align:right;"><a href="junkyard-near-me.php">Junkyards Near Me</a></li>
-                        <li style="width:200px;background: none;margin-top:5px;padding-left:15px;padding-right:15px;text-align:right;"><a href="used-make-car.php">Used OEM Parts</a></li>
-                        <li style="width:200px;background: none;margin-top:5px;padding-left:15px;padding-right:15px;text-align:right;"><a href="buy-car-parts.php">Buy Online</a></li>
-                    </ul>
+						<li style="width:200px;background: none;margin-top:5px;padding-left:15px;padding-right:15px;text-align:right;"><a href="used-car-make.php">Search By Make & Model</a></li>
+						<li style="width:200px;background: none;margin-top:5px;padding-left:15px;padding-right:15px;text-align:right;"><a href="used-car-makes.php">Search By Make & Parts</a></li>
+						<li style="width:200px;background: none;margin-top:5px;padding-left:15px;padding-right:15px;text-align:right;"><a href="auto-salvage-parts.php">Part Locator</a></li>
+						<li style="width:200px;background: none;margin-top:5px;padding-left:15px;padding-right:15px;text-align:right;"><a href="junkyards.php">Junkyard Inventory</a></li>
+						<li style="width:200px;background: none;margin-top:5px;padding-left:15px;padding-right:15px;text-align:right;"><a href="junkyard-near-me.php">Junkyards Near Me</a></li>
+						<li style="width:200px;background: none;margin-top:5px;padding-left:15px;padding-right:15px;text-align:right;"><a href="used-make-car.php">Used OEM Parts</a></li>
+						<li style="width:200px;background: none;margin-top:5px;padding-left:15px;padding-right:15px;text-align:right;"><a href="buy-car-parts.php">Buy Online</a></li>
+					</ul>
                 </div>
-
-
+               
+                
             </div>
             <br/>
             <br/>
             <div class="row" style="color:#fff;padding-top:20px;">
                 <center>&copy; 2021 Car Part USA | All Rights Reserved<a target="_blank" href="https://car-partusa.com/" title="Car Part USA"></a>
-                </center>
+                    </center>
             </div>
         </div>
     </footer>
-
-
-    <!--Start of Tawk.to Script-->
-    <script type="text/javascript">
-        var Tawk_API = Tawk_API || {},
-            Tawk_LoadStart = new Date();
-        (function() {
-            var s1 = document.createElement("script"),
-                s0 = document.getElementsByTagName("script")[0];
-            s1.async = true;
-            s1.src = 'https://embed.tawk.to/6060239cf7ce18270934ae69/1f1rommbo';
-            s1.charset = 'UTF-8';
-            s1.setAttribute('crossorigin', '*');
-            s0.parentNode.insertBefore(s1, s0);
-        })();
-    </script>
-    <!--End of Tawk.to Script-->
-    <script src="js/jquery.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="https://maps.google.com/maps/api/js?sensor=true"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/mousescroll.js"></script>
-    <!--<script src="js/smoothscroll.js"></script>-->
-    <script src="js/jquery.prettyPhoto.js"></script>
-    <!--<script src="js/jquery.isotope.min.js"></script>-->
-    <!--<script src="js/jquery.inview.min.js"></script>-->
-    <script src="js/wow.min.js"></script>
-    <!--<script src="contact/jqBootstrapValidation.js"></script>
+	
+	
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/6060239cf7ce18270934ae69/1f1rommbo';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->      <script src="js/jquery.js"></script>
+      <script src="js/bootstrap.min.js"></script>
+      <script src="https://maps.google.com/maps/api/js?sensor=true"></script>
+      <script src="js/owl.carousel.min.js"></script>
+      <script src="js/mousescroll.js"></script>
+      <!--<script src="js/smoothscroll.js"></script>-->
+      <script src="js/jquery.prettyPhoto.js"></script>
+      <!--<script src="js/jquery.isotope.min.js"></script>-->
+      <!--<script src="js/jquery.inview.min.js"></script>-->
+      <script src="js/wow.min.js"></script>
+      <!--<script src="contact/jqBootstrapValidation.js"></script>
       <script src="contact/contact_me.js"></script>
       <script src="js/contact.js"></script>-->
-    <script src="js/custom-scripts.js"></script>
-    <script>
-        function getQueryStringValue(key) {
-            return decodeURIComponent(window.location.search.replace(new RegExp("^(?:.*[&\\?]" + encodeURIComponent(key).replace(/[\.\+\*]/g, "\\$&") + "(?:\\=([^&]*))?)?.*$", "i"), "$1"));
-        }
-        var timeoutHandle;
-
-        function count() {
-
-            var startTime = document.getElementById('time').innerHTML;
-            var pieces = startTime.split(":");
-            var time = new Date();
-            time.setHours(pieces[0]);
-            time.setMinutes(pieces[1]);
-            time.setSeconds(pieces[2]);
-            var timedif = new Date(time.valueOf() - 1000);
-            var newtime = timedif.toTimeString().split(" ")[0];
-            document.getElementById('time').innerHTML = newtime;
-            timeoutHandle = setTimeout(count, 1000);
-        }
-
-        $(document).ready(function() {
-            if (getQueryStringValue('submit') == 'success') {
-                $('#faill').hide();
-                $('#success1').hide();
-                document.getElementById('selMsg').style.display = "none";
-                document.getElementById('divPart1').style.display = "none";
-                document.getElementById('subForm1').style.display = "none";
-                document.getElementById('subForm').style.display = "none";
-                document.getElementById('lblSelYear').innerHTML = getQueryStringValue('year');
-                document.getElementById('lblSelMake').innerHTML = getQueryStringValue('model');
-                document.getElementById('lblSelPart').innerHTML = getQueryStringValue('part');
-                document.getElementById('lblSelComplete').innerHTML = "Best Price & Quality Guaranteed.";
-                document.getElementById('divTable').style.display = "grid";
-                count();
-            } else if (getQueryStringValue('submit') == 'failure') {
-                $('#faill').hide();
-                $('#success1').hide();
-                document.getElementById('divPart1').style.display = "inline";
-                document.getElementById('divPart2').style.display = "none";
-                document.getElementById('selMsg').style.display = "none";
-                document.getElementById('subForm').style.display = "none";
-            } else {
-                $('#faill').hide();
-                $('#success1').hide();
-                document.getElementById('divPart1').style.display = "inline";
-                document.getElementById('divPart2').style.display = "none";
-                document.getElementById('selMsg').style.display = "none";
-                document.getElementById('subForm').style.display = "none";
-            }
-            $('#secondpage').hide();
-            /*Added by Fawwaz*/
-            $("#Make").change(function() {
-                var makeName = $(this).val();
-                if (makeName != "") {
-                    $.ajax({
-                        url: "get-model.php",
-                        data: {
-                            makewala: makeName
-                        },
-                        type: 'POST',
-                        success: function(response) {
-                            var resp = $.trim(response);
-                            $("#Model").html(resp);
-                        }
-                    });
-                } else {
-                    $("#Model").html("<option value=''>Select Model</option>");
-                }
-            });
-        });
-
-        function getSecondPage() {
-            var Model = $('#Model').val();
-            var Year = $('#Year').val();
-
-            if (Model == '' || Year == '') {
-                alert('Please Select Both Make/ Model And Year Field');
-            } else {
-                $('#firstpage').hide();
-                $('#secondpage').show();
-            }
-
-        }
-
-        function getFirstPage() {
-            $('#firstpage').show();
-            $('#secondpage').hide();
-        }
-
-        function SENDMAIL() {
-            document.getElementById('subForm').style.display = "none";
-            gtag('event', 'conversion', {
-                'send_to': 'AW-395179261/7ayJCI349f0BEP3pt7wB'
-            });
-            gtag('event', 'conversion', {
-                'send_to': 'AW-376735967/WAUbCJWrhcwCEN-R0rMB'
-            });
-            var Model = $('#Model').val();
-            var Year = $('#Year').val();
-            var Part = $('#Part').val();
-
-            var Contact = $('#Contact').val();
-            var Email = $('#Email').val();
-            var Zip = $('#Zip').val();
-            var Name = $('#Name').val();
-
-            if (Model != '' && Year != '' && Part != '' && Contact != '' && Email != '' && Zip != '' && Name != '') {
-                // $('#faill').hide();
-                //                  $('#success1').show();  
-            }
-        }
-
-        function findPart() {
-            if ($('#Model').val() != "" && $('#Year').val() != "" && $('#Part').val() != "") {
-                document.getElementById('divPart2').style.display = "inline";
-                document.getElementById('divPart1').style.display = "none";
-                document.getElementById('selMsg').style.display = "inline-block";
-                document.getElementById('lblSelYear').innerHTML = $('#Year').val();
-                document.getElementById('lblSelMake').innerHTML = $('#Model').val();
-                document.getElementById('lblSelPart').innerHTML = $('#Part').val();
-                document.getElementById('lblSelComplete').innerHTML = "Complete the fields to get an Instant Quote.";
-                document.getElementById('subForm1').style.display = "none";
-                document.getElementById('subForm').style.display = "inline";
-            } else {
-                document.getElementById('fillMsg').style.display = "inline-block";
-                document.getElementById('firstParag').style.marginTop = "0px";
-            }
-        }
-
-        /*	function SENDMAIL()
-         {
-         
-                var Model=$('#Model').val();
-                var Year=$('#Year').val();
-                var Part=$('#Part').val();
-               
-                var Contact=$('#Contact').val();
-                var Email=$('#Email').val();
-                var Zip=$('#Zip').val();
-                var Name=$('#Name').val();
-               
-                if(Model!='' && Year!='' && Part!='' && Contact!='' && Email!='' && Zip!='' && Name!='')
-        		{
-                var dataString ='Model='+Model+'&Year='+Year+'&Part='+Part+'&Name='+Name+'&Zip='+Zip+'&Email='+Email+'&Contact='+Contact+'&action=sendemail';
-         
-            $.ajax({
-         
-                   type: "POST",
-         
-                    url: 'index.php', 
-         
-                   data: dataString,
-         
-                   cache: false,
-         
-                   success: function(result)
-         
-                        {
-         
-                           
-                           if(result == "failed")
-                          {
-                              $('#faill').show();
-                              $('#success1').hide();
-                          }
-                          else
-                          {
-                            $('#faill').hide();
-                            $('#success1').show();  
-         
-                             $('#Model').val('');
-                $('#Year').val('');
-                $('#Part').val('');
-                $('#Body').val('Select Body Style');
-                $('#Liter').val('Engine Liter');
-                $('#Size').val('Engine Size');
-                $('#Charged').val('Turbo Charged');
-                $('#Fuel').val('Fuel Type');
-                $('#Vin').val('');
-                $('#Transmission').val('Transmission Type');
-                $('#Additional-details').val('');
+      <script src="js/custom-scripts.js"></script>
+      <script>
+         function getQueryStringValue (key) {  
+           return decodeURIComponent(window.location.search.replace(new RegExp("^(?:.*[&\\?]" + encodeURIComponent(key).replace(/[\.\+\*]/g, "\\$&") + "(?:\\=([^&]*))?)?.*$", "i"), "$1"));  
+         } 
+                 var timeoutHandle;
+                    function count() {
                 
-                $('#Contact').val('');
-                $('#Email').val('');
-                $('#Zip').val('');
-                $('#State').val('Select State');
-                $('#Name').val('');
-               
-                          }
+                    var startTime = document.getElementById('time').innerHTML;
+                    var pieces = startTime.split(":");
+                    var time = new Date();    time.setHours(pieces[0]);
+                    time.setMinutes(pieces[1]);
+                    time.setSeconds(pieces[2]);
+                    var timedif = new Date(time.valueOf() - 1000);
+                    var newtime = timedif.toTimeString().split(" ")[0];
+                    document.getElementById('time').innerHTML=newtime;
+                    timeoutHandle=setTimeout(count, 1000);
+                }
          
-                       }
-         
-              });
-        		}
-         
-            }*/
-    </script>
-
-    <script type="application/ld+json">
-        {
-            "@context": "https://schema.org",
-            "@type": "FAQPage",
-            "mainEntity": [{
-                "@type": "Question",
-                "name": "What is OEM Part?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "OEM is an abbreviation for Original Equipment Manufacturer. It means the parts are made directly by the car manufacturer, not by a third party."
-                }
-            }, {
-                "@type": "Question",
-                "name": "Which is #1 Online Car Quality Parts Locator?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "Try  Car Part USA online salvage yard car parts finder for a used engine, transmission, tail light, head lights and door mirror parts you are in the best place you can be when it comes to top-value, low-cost OEM auto parts."
-                }
-            }, {
-                "@type": "Question",
-                "name": "Which is the nearest Junkyard / Salvage Yard near me?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "At our network of more than 78 Salvage Yards Automobile Parts, we strive to offer good quality used parts at the lowest possible prices anywhere. By being a FULL SERVICE Junk yard, we mean that WE pull the parts you want and stand behind all of our used car parts with a conditional 30 days refund & refund warranty."
-                }
-            }, {
-                "@type": "Question",
-                "name": "Where to find quality auto parts @ best price?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "All of our used parts are tested and have some industry standard guarantees. Keep in mind car-partusa.com the next time you need a used part."
-                }
-            }]
+                 $(document).ready(function(){
+         if(getQueryStringValue('submit')=='success')
+         {
+                    $('#faill').hide();
+                    $('#success1').hide();
+                    document.getElementById('selMsg').style.display="none";	
+                          document.getElementById('divPart1').style.display="none";
+                          document.getElementById('subForm1').style.display="none";		
+                 document.getElementById('subForm').style.display="none";
+         document.getElementById('lblSelYear').innerHTML = getQueryStringValue('year');
+         document.getElementById('lblSelMake').innerHTML = getQueryStringValue('model');
+         document.getElementById('lblSelPart').innerHTML = getQueryStringValue('part');
+         document.getElementById('lblSelComplete').innerHTML = "Best Price & Quality Guaranteed.";
+                    document.getElementById('divTable').style.display="grid";
+                    count();
+         }
+         else if(getQueryStringValue('submit')=='failure')
+         {
+                      $('#faill').hide();
+                     $('#success1').hide();
+                          document.getElementById('divPart1').style.display="inline";
+                          document.getElementById('divPart2').style.display="none";
+         document.getElementById('selMsg').style.display="none";	
+         document.getElementById('subForm').style.display="none";}
+         else
+         {
+                      $('#faill').hide();
+                     $('#success1').hide();
+                          document.getElementById('divPart1').style.display="inline";
+                          document.getElementById('divPart2').style.display="none";
+         document.getElementById('selMsg').style.display="none";	
+         document.getElementById('subForm').style.display="none";
+                     }
+                     $('#secondpage').hide();
+                 /*Added by Fawwaz*/		
+         $("#Make").change(function() {
+    var makeName = $(this).val();
+    if(makeName != "") {
+      $.ajax({
+        url:"get-model.php",
+        data:{makewala:makeName},
+        type:'POST',
+        success:function(response) {
+          var resp = $.trim(response);
+          $("#Model").html(resp);
         }
-    </script>
-    <!--FAQPage Code Generated by https://saijogeorge.com/json-ld-schema-generator/faq/-->
+      });
+    } else {
+      $("#Model").html("<option value=''>Select Model</option>");
+    }
+  });
+                 });
+                 function getSecondPage()
+                 {
+                      var Model = $('#Model').val();
+                      var Year = $('#Year').val();
+                     
+                   if(Model=='' || Year=='')
+                   {
+                       alert('Please Select Both Make/ Model And Year Field');
+                   }
+                   else
+                   {
+                     $('#firstpage').hide();
+                     $('#secondpage').show();
+                   }
+                
+                 }
+                 function getFirstPage()
+                 {
+                     $('#firstpage').show();
+                     $('#secondpage').hide();
+                 }
+          function SENDMAIL()
+          {	
+                 document.getElementById('subForm').style.display="none";
+              gtag('event', 'conversion', {'send_to': 'AW-395179261/7ayJCI349f0BEP3pt7wB'});
+              gtag('event', 'conversion', {'send_to': 'AW-376735967/WAUbCJWrhcwCEN-R0rMB'});
+         var Model=$('#Model').val();
+                 var Year=$('#Year').val();
+                 var Part=$('#Part').val();
+                
+                 var Contact=$('#Contact').val();
+                 var Email=$('#Email').val();
+                 var Zip=$('#Zip').val();
+                 var Name=$('#Name').val();
+                 
+                if(Model!='' && Year!='' && Part!='' && Contact!='' && Email!='' && Zip!='' && Name!='')
+         		{
+         // $('#faill').hide();
+           //                  $('#success1').show();  
+          }
+          }
+         function findPart(){
+         if($('#Model').val()!="" && $('#Year').val()!="" && $('#Part').val()!=""){
+         document.getElementById('divPart2').style.display="inline";
+                 document.getElementById('divPart1').style.display="none";				  
+                 document.getElementById('selMsg').style.display="inline-block";
+         document.getElementById('lblSelYear').innerHTML = $('#Year').val();
+         document.getElementById('lblSelMake').innerHTML = $('#Model').val();
+         document.getElementById('lblSelPart').innerHTML = $('#Part').val();
+         document.getElementById('lblSelComplete').innerHTML = "Complete the fields to get an Instant Quote.";
+                 document.getElementById('subForm1').style.display="none";		
+                 document.getElementById('subForm').style.display="inline";		
+         }
+         else{		  
+                 document.getElementById('fillMsg').style.display="inline-block";	
+                 document.getElementById('firstParag').style.marginTop ="0px";
+         }}
+         	
+         /*	function SENDMAIL()
+          {
+         
+                 var Model=$('#Model').val();
+                 var Year=$('#Year').val();
+                 var Part=$('#Part').val();
+                
+                 var Contact=$('#Contact').val();
+                 var Email=$('#Email').val();
+                 var Zip=$('#Zip').val();
+                 var Name=$('#Name').val();
+                
+                 if(Model!='' && Year!='' && Part!='' && Contact!='' && Email!='' && Zip!='' && Name!='')
+         		{
+                 var dataString ='Model='+Model+'&Year='+Year+'&Part='+Part+'&Name='+Name+'&Zip='+Zip+'&Email='+Email+'&Contact='+Contact+'&action=sendemail';
+         
+             $.ajax({
+         
+                    type: "POST",
+         
+                     url: 'index.php', 
+         
+                    data: dataString,
+         
+                    cache: false,
+         
+                    success: function(result)
+         
+                         {
+         
+                            
+                            if(result == "failed")
+                           {
+                               $('#faill').show();
+                               $('#success1').hide();
+                           }
+                           else
+                           {
+                             $('#faill').hide();
+                             $('#success1').show();  
+         
+                              $('#Model').val('');
+                 $('#Year').val('');
+                 $('#Part').val('');
+                 $('#Body').val('Select Body Style');
+                 $('#Liter').val('Engine Liter');
+                 $('#Size').val('Engine Size');
+                 $('#Charged').val('Turbo Charged');
+                 $('#Fuel').val('Fuel Type');
+                 $('#Vin').val('');
+                 $('#Transmission').val('Transmission Type');
+                 $('#Additional-details').val('');
+                 
+                 $('#Contact').val('');
+                 $('#Email').val('');
+                 $('#Zip').val('');
+                 $('#State').val('Select State');
+                 $('#Name').val('');
+                
+                           }
+         
+                        }
+         
+               });
+         		}
+         
+             }*/
+                 
+      </script>
+	 
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is OEM Part?","acceptedAnswer":{"@type":"Answer","text":"OEM is an abbreviation for Original Equipment Manufacturer. It means the parts are made directly by the car manufacturer, not by a third party."}},{"@type":"Question","name":"Which is #1 Online Car Quality Parts Locator?","acceptedAnswer":{"@type":"Answer","text":"Try  Car Part USA online salvage yard car parts finder for a used engine, transmission, tail light, head lights and door mirror parts you are in the best place you can be when it comes to top-value, low-cost OEM auto parts."}},{"@type":"Question","name":"Which is the nearest Junkyard / Salvage Yard near me?","acceptedAnswer":{"@type":"Answer","text":"At our network of more than 78 Salvage Yards Automobile Parts, we strive to offer good quality used parts at the lowest possible prices anywhere. By being a FULL SERVICE Junk yard, we mean that WE pull the parts you want and stand behind all of our used car parts with a conditional 30 days refund & refund warranty."}},{"@type":"Question","name":"Where to find quality auto parts @ best price?","acceptedAnswer":{"@type":"Answer","text":"All of our used parts are tested and have some industry standard guarantees. Keep in mind car-partusa.com the next time you need a used part."}}]}</script><!--FAQPage Code Generated by https://saijogeorge.com/json-ld-schema-generator/faq/-->
 
 
 
-</body>
-
+   </body>
 </html>
